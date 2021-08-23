@@ -1,9 +1,9 @@
 {
-    "name": "com.unity.timeline",
+    "name": "com.unity.formspackage",
     "displayName": "Timeline",
     "version": "1.4.7",
     "unity": "2019.3",
-    "description": "Use Unity Timeline to create cinematic content, game-play sequences, audio sequences, and complex particle effects.",
+    "description": "Use this as component to add it to the form object",
 
     "author" :{
         "name": "sheetanshu",
